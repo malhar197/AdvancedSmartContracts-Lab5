@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "solc": "^0.6.11"
+  },
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "dotenv": "^8.2.0",
+    "web3": "^1.2.9"
   }
 }
